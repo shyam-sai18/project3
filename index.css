@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+}
+.container{
+    height:600px;
+    width:600px;
+    background-color: red;
+    border-bottom-right-radius: 10%;
+}
+.image{
+    position: relative;
+    top: 70px;
+    left: 50%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.photo{
+    height: 200px;
+    width: 600px;
+    background-color: rgb(61, 61, 61);
+}
+
